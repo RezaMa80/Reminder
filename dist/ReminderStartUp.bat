@@ -1,2 +1,2 @@
-echo Open > ".\Data"
+<nul set /p = "Open" > ".\Data"
 start "" "./Reminder.exe"
